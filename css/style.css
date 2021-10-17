@@ -94,6 +94,13 @@ address {
   font-style: normal;
   line-height: inherit; }
 
+  .video-fluid {
+    width: 100%;
+    height: 50vh;
+  }
+
+ 
+
 ol,
 ul,
 dl {
